@@ -1,3 +1,9 @@
+# Intern::Bookmark
+
+はてな教科書サンプルコード
+
+2015年度以降はこちら https://github.com/hatena/perl-Intern-Bookmark
+
 ## セットアップ
 以下のコマンドを実行。
 ```
